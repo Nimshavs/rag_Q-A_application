@@ -1,0 +1,7 @@
+
+# Ignore application files
+app.py
+app1.py
+
+# Ignore virtual environment
+venv/
